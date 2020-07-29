@@ -3,7 +3,7 @@ Com uso da ferramenta PowerBI queremos analisar dados encontrados na Wiki do jog
 
 # Contar a história
 - Com os dados, adicionamos fotos dos personagens e removemos campos desnecessários.
-- Os textos dos audios não contam a história em ordem cronológica, ordenamos de acordo com o campo de data de cada fala do Voxophone.
+- Os textos dos audios não contam a história em ordem cronológica, mas queriamos que contasse então ordenamos de acordo com o campo de data de cada fala do Voxophone.
 - Criamos então uma forma visual de mostrar a informação com o dialogo e a ordem do ano para que ficasse mais fácil para jogadores compreender a história.
 
 ![](https://github.com/nathanafacion/PowerBI-Dashboard-com-Bioshock/blob/master/Historia.png?raw=true)

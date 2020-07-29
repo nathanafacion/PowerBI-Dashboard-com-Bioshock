@@ -1,5 +1,5 @@
 # Objetivo
-Com uso da ferramenta PowerBI queremos analisar dados encontrados na Wiki do jogo Bioshock Infinite sobre os Voxophones. Os Voxophones são audios do jogo Bioshock Infinite, que contam a história do mundo criado, a informação é contada cada vez por um personagem e em diferentes diferentes anos.
+Com uso da ferramenta PowerBI queremos analisar dados encontrados na Wiki do jogo Bioshock Infinite sobre os Voxophones. Os Voxophones são audios do jogo Bioshock Infinite, que contam a história do mundo criado, a informação é contada cada vez por um personagem e em diferentes anos.
 
 # Contar a história
 - Com os dados, adicionamos fotos dos personagens e removemos campos desnecessários.
